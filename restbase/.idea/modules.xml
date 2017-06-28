@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/restbase.iml" filepath="$PROJECT_DIR$/restbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../git_repository/mygitresp/scalaj-http/.idea/modules/scalaj-http.iml" filepath="$PROJECT_DIR$/../git_repository/mygitresp/scalaj-http/.idea/modules/scalaj-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../git_repository/mygitresp/scalaj-http/.idea/modules/scalaj-http-build.iml" filepath="$PROJECT_DIR$/../git_repository/mygitresp/scalaj-http/.idea/modules/scalaj-http-build.iml" />
+    </modules>
+  </component>
+</project>
